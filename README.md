@@ -1,6 +1,9 @@
 # Dot(.)files
 
-> Configs I can't live without.
+> [!NOTE]
+> Archived and no longer maintained. I have moved to NixOS :(
+
+_Configs I can't live without._
 
 This repository contains all my configurations and scripts. It’s meant as a reference for how I set up my environment.
 
